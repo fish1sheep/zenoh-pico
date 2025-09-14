@@ -37,8 +37,7 @@
         "examples"
     ],
     "dependencies": {
-        "BluetoothSerial": "0.16.1",
-        "FreeRTOS": "1.0.0"
+        "BluetoothSerial": "0.16.1"
     },
     "build": {
         "extraScript": "extra_script.py"
